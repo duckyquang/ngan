@@ -49,7 +49,7 @@ button {
     width: 10vw;
     align-items: center;
     justify-content: center;
-    font-size: 18px;
+    font-size: 100%;
     cursor: pointer;
     border: none;
     background-color: #007bff;
